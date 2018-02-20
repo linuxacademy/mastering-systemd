@@ -1,0 +1,7 @@
+[Match]
+Name=deb9
+Virtualization=systemd-nspawn
+
+[Network]
+DHCP=yes
+LinkLocalAddressing=yes
